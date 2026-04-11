@@ -1,0 +1,5 @@
+xrdb -merge ~/.Xresources &
+# feh --bg-scale ~/walls/sunny-clifs_nord.jpg &
+exec slstatus &
+exec picom &
+exec dwm

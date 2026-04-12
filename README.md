@@ -2,8 +2,10 @@ install guide
 
 first install some dependincys
 on arch this will be 
-sudo pacman -S base-devel libx11 libxft libxinerama
+sudo pacman -S base-devel libx11 libxft libxinerama git
 next
+git clone https://github.com/flashballs/toadsdwm
+then
 cd ~/toadsdwm && chmod +x install.sh
 
 now run

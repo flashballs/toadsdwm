@@ -1,5 +1,5 @@
 xrdb -merge ~/.Xresources &
-feh --bg-scale ~/toadsdwm/walls/sunny-clifs_nord.jpg &
+feh --bg-scale ~/toadsdwm/walls/orangesea.png &
 exec slstatus &
 exec picom &
 exec dwm

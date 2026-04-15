@@ -1,0 +1,5 @@
+xrdb -merge ~/.Xresources &
+feh --bg-scale ~/toadsdwm/walls/gruvbox.jpg &
+exec slstatus &
+exec picom &
+exec dwm
